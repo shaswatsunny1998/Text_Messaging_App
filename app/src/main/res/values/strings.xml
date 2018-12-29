@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Text_Messaging_App</string>
+    <string name="To">To:</string>
+    <string name="message">Text Message</string>
+    <string name="mob">Mobile Number</string>
+    <string name="send">Send</string>
+</resources>
